@@ -1,4 +1,4 @@
-# Training Examples:
+# Training Schedule:
 - Week 1: Java
     - Start P0
 - Week 2: SQL and Servlets
