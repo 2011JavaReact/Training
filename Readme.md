@@ -67,7 +67,7 @@ To maximize resources and minimize troubleshooting, perform a clean install or r
 ### Summary
 To confirm all tools are properly installed and configured, be sure the following commands return no errors:
 ```bash
-git -v
+git --version
 java -version
 javac -version
 mvn -v
