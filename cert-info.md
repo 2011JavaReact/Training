@@ -4,6 +4,8 @@ Revature encourages you to get certifications before you go out to client. This 
 
 1) Oracle Certified Associate, Java SE 8 Programmer (OCA)
 2) Oracle Certified Professional
+3) AWS Solutions Architect - Associate
+4) AWS Certified Developer - Associate
 
 # Oracle Certified Associate, Java SE 8 Programmer
 
@@ -50,7 +52,7 @@ Here is a study guide for preparing for the Exam:
 
 - [Tutorials Dojo Certified Developer study guide](https://tutorialsdojo.com/aws-certified-developer-associate/)
 
-# General AWS Exams
+# AWS Exams in General
 - [Which Exam is right for me?(https://tutorialsdojo.com/which-aws-certification-exam-is-right-for-me/)
 - [Overview of AWS Certs](https://aws.amazon.com/certification/)
 - [Prepare for AWS Certification Exam](https://aws.amazon.com/certification/certification-prep/)
