@@ -11,6 +11,8 @@
 - Week 7: Spring Boot/ Microservices
     - End P2, Star P3
 - Week 8-10: P3, Panels, Interviews, etc.
+# Certifications
+- For more info about Certifications that you can have reimbursed, please check [here](https://github.com/2011JavaReact/Training/blob/master/cert-info.md)
 # Development Environment, Tools, & Resources
 ## Getting Started
 To maximize resources and minimize troubleshooting, perform a clean install or refresh of your operating system. Update your system, [Enable VT-x in BIOS](https://www.wikihow.tech/Enable-VT%E2%80%90x-in-BIOS) if possible, and uninstall all unnecessary programs. 
