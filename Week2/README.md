@@ -1,0 +1,58 @@
+# Week 2 Databases and Java EE Topics
+- Tools
+    - PostgreSQL
+    - Apache Tomcat
+    - Database administration
+        - CLI, Client tool, etc.
+    - AWS RDS
+- Connecting to a DB with Java
+    - SQL
+        - SQL Dialects
+        - DDL
+        - DML
+        - Database, Schema Table
+        - SQL constraints
+            - Primary Key
+            - Foreign Key etc.
+        - Joins and Unions
+        - Scalar and aggregate functions
+        - Sub-Queries
+        - Views
+    - ACID
+    - Normalization
+    - Multiplicity
+    - JDBC API
+        - Driver Class
+        - Connection
+        - Statements
+            - Simple Statement vs Prepared Statement
+        - Running SQL Queries in Java
+        - Design Pattern: Data Access Object
+        - Datasource: Properties, Environment Variables, JDBC URL
+
+- Accessing Java APIs
+    - Client-Server model
+    - APIs
+    - HTTP
+        - Response and Request
+        - HTTP messages
+        - HTTP verbs (HTTP methods)
+            - GET vs POST, etc.
+        - URI, URL
+        - Sending HTTP Requests with Java
+        - idempotent and safe
+    - Servlets
+        - Servlet Container: Tomcat
+        - Servlet API
+            - ServletInterface, GenericServlet, Http Servlet
+            - init(), service(), destroy()
+            - doGet(), doPost()
+            - HttpServletRequest, HttpServletResponse.
+            - RequestDispatcher
+            - Forward vs Redirect
+        - Servlet Lifecyle
+        - Exception/Error Handling
+        - Servlet Context vs Servlet Config
+        - URL Mapping
+        - Deployment Descriptors: web.xml
+        - .war vs .jar files
