@@ -2,7 +2,7 @@
 
 This project was built using servlets and is meant to be run on a `Tomcat 8.5` server. The instructions below will guide you on how to deploy this project to an AWS EC2 that you have already provisioned.
 
-The application accepts `GET` and `POST` requests to `http://{ip-address}/MyPictures/picture`
+The application accepts `GET` and `POST` requests to `http://{ip-address}/PirateServer/HelloServlet`
 
 # Package Servlet App locally
 
