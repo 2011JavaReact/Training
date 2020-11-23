@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+# This is a script that can be used to configure your EC2 to run a 
+# servlets application. scp it into your ec2 home directory and invoke:
+# 'sh server-bootstrap-script.sh'
 # Update EC2 and install java, git, maven
 sudo yum -y update
 sudo yum remove -y java

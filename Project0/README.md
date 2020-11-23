@@ -8,7 +8,7 @@ You must use the following technologies: **Java**, **Servlets**, and **PostgreSQ
 This project is tentatively due in the middle of Week 3.
 
 ## Project 0 Minimum Requirements
-- [ ] Create a RESTful API/Web Service using Java
+- [ ] Create an API/Web Service using Java
 - [ ] Documentation
     - Ask yourself if another person can understand how your app works without you having to explain it to them
 - [ ] Unit Testing
