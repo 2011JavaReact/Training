@@ -1,10 +1,9 @@
-# Week 5 DevOps and Anypoint Platform
+# Week 5 DevOps
 
 - Tools
   - Amazon Web Services(AWS)
   - Linux
   - Jenkins
-  - Docker
 - Linux
 
   - File system
