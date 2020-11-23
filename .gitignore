@@ -65,6 +65,7 @@ npm-debug.log
 testem.log
 /typings
 yarn-error.log
+~$*.pptx
 
 # e2e
 /e2e/*.js
