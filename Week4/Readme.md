@@ -1,0 +1,86 @@
+# Week 4 HTML/CSS, JavaScript, Typescript, Node.js
+- HTML 5
+    - common tags
+        - anchor, bold, body, break, form, h1-h6, head, html, italic, list (list item, ordered/unordered list), paragraph, title, script, style, etc.
+    - semantic tags
+        - article, figure, footer, header, main, nav, section, summary, etc.
+    - HTML forms
+- Bootstrap
+    - how to use bootstrap
+    - grid system
+    - containers
+- Client-Side JS
+    - how to include JS HTML
+    - DOM Selection
+    - DOM Manipulation
+    - Callback Functions
+    - Events & Listeners
+    - Bubbling, Capturing
+    - Event Object
+    - Cancelling Events
+    - AJAX
+        - using JSON in AJAX
+    - JSON
+    - Fetch API
+- JavaScript Runtime
+    - Server-side JS vs Client-side JS
+    - V8
+    - Node
+        - modules
+            - module.exports
+        - exports and imports
+        - Accessing environment variables
+        - JS in node vs JS in browsers
+    - Npm
+        - package.json
+        - package-lock.json
+    - JavaScript Single-Threaded Model and the Event Loop
+- Core JavaScript
+    - Features from ES6/ECMA2015 (know which features were added)
+    - Types in JavaScript
+    - Truthy Falsey
+    - Dynamic and Loose Typing in JavaScript
+    - Functional Programming vs Object-Oriented Programming
+    - Control Flow Statements
+    - var vs let vs const
+    - Variable Scopes
+    - Hoisting
+    - JavaScript Strings and template literals
+    - functions in JS
+        - anonymous functions
+        - functions as constructors
+        - callback functions
+    - classes in JS
+    - rest/spread operator
+    - arrays
+        - array methods: filter, foreach, reduce, map, some
+    - Guard operator, Default operator
+    - == vs ===
+    - Destructuring
+    - varargs
+    - for-each loop
+        - for arrays
+        - for objects
+    - prototypal inheritance
+    - closures
+    - JS Events
+        - event emitters
+        - event listeners
+    - Asynchronous programming
+        - setTimeout, setInterval, etc.
+        - Promises 
+        - async/await
+        - AJAX
+    - Exception/Error Handling
+- TypeScript
+    - Variable Types
+    - Transpiling/Compiling
+    - Access Modifiers
+    - Abstract Classes
+    - CommonJS vs ES6 imports
+- Intro to Web Services
+    - What is a Web Service?
+    - REST
+        - exposing/consuming REST
+        - constraints of REST
+
