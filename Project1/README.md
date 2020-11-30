@@ -5,7 +5,7 @@ For your second project, break yourselves up into groups of 2 or 3. Each of you 
 
 You must use the following technologies to build the front end client: **JavaScript/Typescript**, **HTML**, **CSS**, **React** (optional), **Jenkins**, and **AWS**. The quality of your project is a reflection of your skills and abilities, so I recommend that you create something you can be proud of. The goal is to create something that you can be satisfied with.
 
-This project is tentatively due at the end of Week 5 or the beginning of.
+This project is tentatively due at the end of Week 5 or the beginning of Week 6.
 
 ## Project 1 Minimum Requirements
 - [ ] A front end client that utilizes at least 4 of the routes from your teammates web service (not including authentication endpoints)
@@ -13,11 +13,10 @@ This project is tentatively due at the end of Week 5 or the beginning of.
 - [ ] Make minor revisions to the API that you wrote (if applicable)
 - [ ] Deploy Servlet application to server on AWS EC2
 - [ ] Deploy your frontend to AWS as well (many different ways to do this)
-- [ ] Create a pipeline using Jenkins that achieves continuous delivery/ continuous deployment
+- [ ] Create a pipeline using Jenkins that achieves continuous delivery/ continuous deployment (either or)
 - [ ] Documentation for front end (you can also fix your documentation for your backend if needed)
-- [ ] Unit Testing for React Components (3 components tested)
 - [ ] Login Functionality
-- [ ] Follow basic Scrum/Agile practices: Sprint Planning Meeting, User Stories, Scrum Board, Standup meetings
+- [ ] Follow basic Scrum/Agile practices/techniques: Sprint Planning Meeting, User Stories, Scrum Board, Standup meetings
 
 ## Recommended Stretch Goals
 - hit one endpoint from an external API (that neither of you wrote)
@@ -28,7 +27,6 @@ This project is tentatively due at the end of Week 5 or the beginning of.
 ## Extra rules
 - We will begin by choosing partners/teams starting Monday of week 4.
 - You will have until Wednesday (at 11:59 PM) of week 4 to make changes to your API
-- 
 
 ## Tips
 - do your best to follow proper Scrum Methodology. It's not Scrum if you skip any part of it
