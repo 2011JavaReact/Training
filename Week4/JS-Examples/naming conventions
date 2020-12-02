@@ -1,0 +1,7 @@
+localhost:3000/paper
+    GET => Return all the papers 
+    POST => create a new paper with the JSON in the body
+localhost:3000/paper/4
+    GET => return the paper with id of 4
+    PUT => update paper with id of 4
+    DELETE => delete the paper with id of 4

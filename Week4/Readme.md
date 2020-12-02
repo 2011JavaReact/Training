@@ -70,17 +70,24 @@
         - setTimeout, setInterval, etc.
         - Promises 
         - async/await
-        - AJAX
+        - AJAX (know how to implement it)
     - Exception/Error Handling
 - TypeScript
     - Variable Types
     - Transpiling/Compiling
     - Access Modifiers
     - Abstract Classes
-    - CommonJS vs ES6 imports
+    - ES6 imports
 - Intro to Web Services
     - What is a Web Service?
     - REST
         - exposing/consuming REST
         - constraints of REST
-
+- SDLC
+    - Waterfall
+    - Agile
+        - Scrum
+            - Scrum Team: Scrum Master, Product Owner, Dev Team
+            - Sprint
+            - Scrum Artifacts:  Product Backlog, Sprint Backlog, Burndown/up chart
+            - Meetings: Sprint Planning, Standup Meeting / Daily Scrum, Sprint Review, Sprint Retrospective
