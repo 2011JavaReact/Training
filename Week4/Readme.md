@@ -5,6 +5,9 @@
     - semantic tags
         - article, figure, footer, header, main, nav, section, summary, etc.
     - HTML forms
+- CSS
+    - How to include it in your webpage (inline vs internal sytlesheet vs external stylesheet)
+    - know the syntax and how to write css rules
 - Bootstrap
     - how to use bootstrap
     - grid system
