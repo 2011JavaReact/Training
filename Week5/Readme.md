@@ -1,0 +1,45 @@
+# Week 4: React
+- React
+    - React Pros and Cons
+    - Library vs Framework
+    - create-react-app
+    - JSX
+    - Virtual DOM
+    - Components/Component API
+        - Creating Components
+        - Class-based components
+        - Functional components
+    - rendering components
+    - Component Lifecycle
+    - Props
+    - Validating Props
+    - Component Design Patterns:
+        - Container + Presentation / Controller + View / Smart + Dumb
+        - Higher Order Components
+    - component single responsibility principle
+    - Hooks
+    - One-Way Databinding
+    - Creating Forms
+    - React Router
+        - Single Page Application
+- Redux
+    - Flux design pattern
+    - React-Redux
+    - Action
+    - Dispatch
+    - Reducer
+    - Store
+    - MapStateToProps
+    - MapDispatchToProps
+- Consuming APIs with React
+    - Fetch
+    - Axios
+- Testing React Components
+    - Jest
+    - Enzyme
+- Misc
+    - Styling in React
+        - Bootstrap
+    - Babel
+    - Webpack
+        - npm run build
