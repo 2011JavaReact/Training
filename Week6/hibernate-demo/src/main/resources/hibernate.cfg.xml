@@ -1,0 +1,44 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+		
+<hibernate-configuration>
+	<session-factory>
+		<!-- JDBC database connection settings -->
+		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+		<property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/postgres</property>
+		<property name="hibernate.default_schema">"hibernate-demo"</property>
+		
+		<!-- L2 Caching -->
+		<property name="cache.use_second_level_cache">true</property>
+		<property name="cache.provider_class">org.hibernate.cache.EhCacheProvider</property>
+		
+		<!-- SQL Dialect -->
+		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL95Dialect</property>
+		
+		<!-- Show generated SQL queries -->
+		<property name="show_sql">true</property>
+		
+		<!-- Used to create, update, or validate database schema -->
+		<!-- Possible options:
+		1. create - creates new databse tables based on existing class mappings. If the tables already exist, then it will drop them and 
+		recreate
+		2. update - updates existing tables to match the class mappings
+		3. validate - validate existing tables against our class mappings. If validation fails, application will not work properly
+		4. create-drop - same as create, but drops all tables once SessionFactory is closed
+		 -->
+		<property name="hbm2ddl.auto">validate</property>
+		
+		<!-- Specify our model classes here -->
+		<mapping class="com.revature.entities.Planet"></mapping>
+		<mapping class="com.revature.entities.PlanetDetail"></mapping>
+		<mapping class="com.revature.entities.Satellite"></mapping>
+		
+		<!-- Specify the entity mapping here -->
+		<!-- <mapping resource="planet.hbm.xml"></mapping> -->
+		
+		<!-- Named query mapping through XML -->
+		<mapping resource="namedquery.hbm.xml"></mapping>
+		
+	</session-factory>
+</hibernate-configuration>
