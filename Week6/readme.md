@@ -9,28 +9,33 @@
 - Using Native SQL in Hibernate
 - Named queries with hbm files
 - Hibernate Level 1 vs Level 2 caching
+- Hibernate XML vs Annotation configuration
 
 ## Spring
 ### Spring Framework
 - Bean Factory vs App Context
 - Spring Family/Spring Ecosystem
 - Spring Bean
-- Spring Bean Lifecycle
-- Dependency Injection
+    - Spring Bean Lifecycle
+    - Spring Bean Scopes
+- Dependency Injection (XML and Annotations)
+    - Injecting Objects
+    - Injecting Primatives
 - Bean wiring with XML
 - Bean wiring with annotations
     - @Component, @Repository, @Service, @Autowired, @Inject
-- Dependency injecting primitives (XML and Annotations)
+- Spring Modules
 ### Spring MVC
 - annotations
     - @Controller, @RestController
     - @RequestMapping, @RequestBody, @GetMapping, @PostMapping, etc.
-### Spring Boot
-- @SpringBootApplication
-- Structure of Spring boot App
-- embedded tomcat server
-- Consuming Spring Boot API with React
-### Spring Data JPA
-- Validation (JSR 303)
+- dealing with path/query parameters from url
+### Spring ORM
 - @Transactional
-- JPARepository
+- How to setup Spring ORM
+### Spring AOP
+- Aspect Oriented Programming
+- Cross-cutting concerns
+- Advice
+- Pointcut
+- Join points
