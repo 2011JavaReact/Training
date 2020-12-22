@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.revature.entities">
+	<class name="Planet" table="planet">
+		<id name="id" type="int" column="planet_id">
+			<generator class="identity"></generator>
+		</id>
+		
+		<property name="temperature" type="double"></property>
+		<property name="name" type="string"></property>
+		<property name="mass" type="double"></property>
+	</class>
+</hibernate-mapping>
